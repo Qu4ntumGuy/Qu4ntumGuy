@@ -15,13 +15,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Cyber Security and Networking
+- 🔭 I’m currently working on Front-end Development
 
-- 🌱 I’m currently learning Android Development 
+- 🌱 I’m currently learning Machine Learning and AI
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles, Web Development 
+- 👯 I’m looking to collaborate on Projects, Tech Articles, Web Development
 
-- 💬 Talk to me about JavaScript, Python, Linux  
+- 💬 Talk to me about JavaScript, Python, Linux
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Qu4ntumGuy?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
